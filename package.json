@@ -21,6 +21,7 @@
     "electron": "^4.0.1"
   },
   "dependencies": {
+    "@angular-mdc/web": "^0.43.4",
     "material-components-web": "^0.43.0"
   }
 }
